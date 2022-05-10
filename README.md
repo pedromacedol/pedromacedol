@@ -1,6 +1,6 @@
-<div>
-## 👋 Hi! Welcome to my Github profile.
-<div>
+<h1 align="center"> 👋 Hi! Welcome to my Github profile. </h1>
+
+
 ### My name is Pedro!
 ### Estou aprendendo
 
