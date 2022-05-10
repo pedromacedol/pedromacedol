@@ -1,4 +1,6 @@
+<div>
 ## 👋 Hi! Welcome to my Github profile.
+<div>
 ### My name is Pedro!
 ### Estou aprendendo
 
