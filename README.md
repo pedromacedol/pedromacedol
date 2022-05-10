@@ -1,8 +1,9 @@
-<h1 align="center"> 👋 Hi! Welcome to my Github profile. </h1>
+<h2 align="center"> 👋 Hi! Welcome to my Github profile. 👨‍💻 </h2>
+<p align="justify"> Graduating in Computer Engineering, passionate about technology, fascinated in using programming to contribute to the development or improvement of software. </p>
+### 
 
+Habilidades: criatividade, comunicação, negociação, adaptabilidade e trabalho em equipe.
 
-### My name is Pedro!
-### Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
 
