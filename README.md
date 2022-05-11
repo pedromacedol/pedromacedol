@@ -1,7 +1,9 @@
-<h2 align="center"> 👋 Hi! Welcome to my Github profile. 👨‍💻 </h2>
-<p align="justify"> Graduating in Computer Engineering, passionate about technology, fascinated in using programming to contribute to the development or improvement of software. </p>
-### 
 
+
+<h2 align="justify">  👋🏼 Hi! Welcome to my GitHub. 👨‍💻 </h2>
+<p align="justify"> I'm a Computer Engineering student at Federal Institute of Paraíba who is passionate about technology, fascinated in using programming to contribute to the development or improvement of software. </p>
+
+<h2 align="center"> 🔭 Languages and Tools:</h2>
 Habilidades: criatividade, comunicação, negociação, adaptabilidade e trabalho em equipe.
 
 
