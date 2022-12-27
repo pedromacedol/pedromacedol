@@ -25,8 +25,8 @@ I am a Front-End Developer and Undergraduate Computer Engineering student at Fed
 
 <div>
 
-<img height="50%" src="https://github-readme-stats.vercel.app/api?username=pedromacedol&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
-<img height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromacedol&theme=dark&hide_border=true"/>
+<img height="40%" src="https://github-readme-stats.vercel.app/api?username=pedromacedol&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
+<img height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromacedol&theme=dark&hide_border=true"/>
 
 <h2> 🌐 Socials: </h2>
 
