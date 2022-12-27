@@ -35,7 +35,7 @@ I'm a young, determined, dreamer, visionary and tech lover. I'm always open to l
 <h1 >  </h1>
 
 
-<div>
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromacedol&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromacedol&theme=dark&hide_border=true"/>
  
