@@ -1,14 +1,23 @@
-<h1 align="justify">  👋🏼 Hi! Welcome to my GitHub. 👨‍💻 </h1>
+<div align="center">
+<h1 > 👋 Hi! Welcome to my GitHub. 👨‍💻 </h1>
 
- 
-<h4> 
-<p align="justify">
-I am a Front-End Developer and Undergraduate Computer Engineering student at Federal Institute of Paraíba - IFPB. Currently I am developing websites, mobile applications and compete in Programming Contests.
-</p> 
-</h4> 
+
+<h4>
+I'm a young, determined, dreamer, visionary and tech lover. I'm always open to learning and share learnings. 
+ <p> </p> 
+💼 Front-End Developer |
+👨‍🎓 Undergraduate Computer Engineering | 
+🏆 Competitive programming.
+ </h4>
+
+  
+
+</div>
+
+<h1 >  </h1>
+
 
 <div>
-
  
 ![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=gray) 
 ![Flutter](https://img.shields.io/badge/Flutter-black.svg?style=for-the-badge&logo=Flutter&logoColor=gray)
@@ -23,16 +32,18 @@ I am a Front-End Developer and Undergraduate Computer Engineering student at Fed
 ![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=for-the-badge&logo=anaconda&logoColor=gray) 
 </div>
 
-<div>
+<h1 >  </h1>
 
+
+<div align="center">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromacedol&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
 <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=pedromacedol&theme=dark&hide_border=true"/>
+ 
+ 
+<h1 >  </h1>
 
-<h2> 🌐 Socials: </h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pedromacedol.dev/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pedromacedol.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pedromacedol/)
 
-<h5> 
-💬 I'm a young, determined, dreamer, visionary and tech lover. I'm always open to learning and share leanings. If you want to talk about software development, coding or anything else, send me a message.
-</h5> 
+
+</div>
