@@ -8,17 +8,17 @@ If you want to talk about software development, coding or anything else, send me
 
 <h2 > 💻 Tech Stack:</h3>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![React](https://img.shields.io/badge/react-black.svg?style=for-the-badge&logo=react&logoColor=gray) 
+![Flutter](https://img.shields.io/badge/Flutter-black.svg?style=for-the-badge&logo=Flutter&logoColor=gray)
+![CSS3](https://img.shields.io/badge/css3-black.svg?style=for-the-badge&logo=css3&logoColor=gray) 
+![HTML5](https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5&logoColor=gray) 
+![TypeScript](https://img.shields.io/badge/typescript-black.svg?style=for-the-badge&logo=typescript&logoColor=gray) 
+![JavaScript](https://img.shields.io/badge/javascript-black.svg?style=for-the-badge&logo=javascript&logoColor=gray) 
+![C++](https://img.shields.io/badge/c++-black.svg?style=for-the-badge&logo=c%2B%2B&logoColor=gray) 
+![Dart](https://img.shields.io/badge/dart-black.svg?style=for-the-badge&logo=dart&logoColor=gray) 
+![Firebase](https://img.shields.io/badge/firebase-black.svg?style=for-the-badge&logo=firebase&logoColor=gray)
+![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=gray) 
+![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=for-the-badge&logo=anaconda&logoColor=gray) 
 
 <h2> 📊 Github Stats:</h2>
 <div>
