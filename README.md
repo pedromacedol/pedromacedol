@@ -36,8 +36,8 @@ I'm a young, determined, dreamer, visionary and tech lover. I'm always open to l
 
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromacedol&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/> 
-
+![pedromacedol's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromacedol&count_private=true)
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedromacedol&theme=dark&hide_border=true&fire=03FA6E&ring=03FA6E&currStreakNum=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&sideNums=03FA6E&currStreakLabel=03FA6E)](https://git.io/streak-stats)
  
 <h1 >  </h1>
