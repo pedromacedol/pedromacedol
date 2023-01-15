@@ -32,12 +32,6 @@ I'm a young, determined, dreamer, visionary and tech lover. I'm always open to l
 ![Anaconda](https://img.shields.io/badge/Anaconda-black.svg?style=for-the-badge&logo=anaconda&logoColor=gray) 
 </div>
 
-![pedromacedol's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromacedol&count_private=true&theme=dark&hide_border=true)
- 
- 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pedromacedol&theme=dark&hide_border=true&fire=03FA6E&ring=03FA6E&currStreakNum=FFFFFF&sideLabels=FFFFFF&stroke=FFFFFF&sideNums=03FA6E&currStreakLabel=03FA6E)](https://git.io/streak-stats)
- 
-
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/pedromacedol.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedromacedol/)
