@@ -3,7 +3,7 @@
 
 I'm Pedro Macêdo, and I transform ideas into digital masterpieces.  
 
-As a software engineer specializing in web development, I love tackling challenges and building new things. And you know what's awesome? I'm passionate about helping other developers too! Whether it's articles, tutorials, or providing mentorship to new devs, I'm fully committed to supporting the programming community
+As a software engineer specializing in web development, I love tackling challenges and building new things. And you know what's awesome? I'm passionate about helping other developers too! Whether it's articles, tutorials, or providing mentorship to new devs, I'm fully committed to supporting the programming community.
 
 Have questions or want to reach out directly? Feel free to contact me via email.
 ## 
