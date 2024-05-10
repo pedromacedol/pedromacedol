@@ -1,4 +1,3 @@
-
 ## About me
 
 I'm Pedro Macêdo, and I transform ideas into digital masterpieces.  
